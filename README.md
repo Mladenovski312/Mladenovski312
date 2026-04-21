@@ -41,8 +41,3 @@ PowerBI, DAX. 48-hour hackathon entry for an online education platform. Received
 **NEXUS Agent Rig**
 Claude Code on a self-hosted Linux Mint workstation. Personal rig for deep-context development. Write-up coming soon.
 
-## Connect
-
-- LinkedIn: [mladenovskifilip](https://www.linkedin.com/in/mladenovskifilip/)
-- Upwork: [filipmladenovski](https://www.upwork.com/freelancers/filipmladenovski)
-- Email: filip.mladenovski993@gmail.com
